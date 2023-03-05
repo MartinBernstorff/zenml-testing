@@ -1,9 +1,8 @@
 from zenml.steps import step
+    import time
 
 
 @step
 def sleep() -> None:
-    import time
-
-    pass
+    """Imitated zenml step"""
     time.sleep(5)
