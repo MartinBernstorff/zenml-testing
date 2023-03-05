@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/MartinBernstorff/swift-python-cookiecutter",
+  "commit": "46aba8c2f5c7e8b2f583592a895aebfddca0adb8",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "zenml-testing",
+      "package_name": "zenml_testing",
+      "friendly_name": "Zenml Testing",
+      "author": "Martin Bernstorff",
+      "email": "martinbernstorfff@gmail.com",
+      "github_user": "MartinBernstorff",
+      "version": "0.0.0",
+      "copyright_year": "2023",
+      "license": "MIT",
+      "_copy_without_render": [
+        "*.github"
+      ],
+      "_template": "https://github.com/MartinBernstorff/swift-python-cookiecutter"
+    }
+  },
+  "directory": null
+}
