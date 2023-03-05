@@ -1,5 +1,6 @@
+import time
+
 from zenml.steps import step
-    import time
 
 
 @step
